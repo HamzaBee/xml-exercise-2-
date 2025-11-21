@@ -1,2 +1,2 @@
 <h1>Releve</h1>
-<img src="capture/screen1.png">
+<img src="Capture\screen1.png">
