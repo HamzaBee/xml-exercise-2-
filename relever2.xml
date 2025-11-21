@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<releve xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="releve.xsd" RIB="024585145878215458444">
+    <dateReleve>11-21-2025</dateReleve>
+    <solde>74540.40</solde>
+    <operations dateDebut="2025-09-01" dateFin="2025-09-30">
+        <operation type="DEBIT" date="2025-09-03" montant="800" description="Paiement carte – Restaurant"/>
+        <operation type="CREDIT" date="2025-09-08" montant="2500" description="Virement reçu"/>
+        <operation type="DEBIT" date="2025-09-11" montant="750" description="Facture médicale"/>
+        <operation type="CREDIT" date="2025-09-22" montant="1000" description="Remboursement assurance"/>
+    </operations>
+    <operations dateDebut="2025-10-01" dateFin="2025-10-31">
+        <operation type="CREDIT" date="2025-10-05" montant="8800" description="Salaire"/>
+        <operation type="DEBIT" date="2025-10-11" montant="3300" description="Achat en ligne"/>
+        <operation type="CREDIT" date="2025-10-17" montant="1200" description="Revenu freelance"/>
+        <operation type="DEBIT" date="2025-10-27" montant="1100" description="Paiement carte – Supermarché"/>
+    </operations>
+</releve>

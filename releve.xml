@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE releve SYSTEM "file:/C:/Users/mizo_/OneDrive/Bureau/Exercise-2/releve.dtd">
+<releve RIB="0124564512462151">
+    <dateReleve>11-21-2025</dateReleve>
+    <solde>49.999</solde>
+    <operations dateDebut="09-01-2025" dateFin="09-30-2025">
+        <operation type="DEBIT" date="09-03-2025" montant="800" description="Paiement carte – Restaurant"/>
+        <operation type="CREDIT" date="09-08-2025" montant="2500" description="Virement reçu"/>
+        <operation type="DEBIT" date="09-12-2025" montant="750" description="Facture médicale"/>
+        <operation type="CREDIT" date="09-22-2025" montant="1000" description="Remboursement assurance"/>
+    </operations>
+    <operations dateDebut="10-01-2025" dateFin="10-31-2025">
+        <operation type="CREDIT" date="10-05-2025" montant="8800" description="Salaire"/>
+        <operation type="DEBIT" date="10-11-2025" montant="3300" description="Achat en ligne"/>
+        <operation type="CREDIT" date="10-17-2025" montant="1200" description="Revenu freelance"/>
+        <operation type="DEBIT" date="10-27-2025" montant="1100" description="Paiement carte – Supermarché"/>
+    </operations>
+</releve>
